@@ -131,5 +131,3 @@ The dataset consists of **two SQL databases** and **three Excel files**.
 - Storytelling with data for **executive-level reporting**  
 
 ---
-
-## 📂 Repository Structure  
